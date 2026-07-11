@@ -2,8 +2,6 @@
 
 A simple To-Do List application in Python.
 
-## Screenshot
-
 ![Todo App Screenshot](todo.PNG)
 
 ## Features
